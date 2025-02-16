@@ -51,16 +51,16 @@
     "id": 7,
     "title": "Projet Alpha",
     "year": 2023,
-    "image": "https://raw.githubusercontent.com/HamzaChl/portfolio-urls/main/04.png",
-    "hoverImage": "https://raw.githubusercontent.com/HamzaChl/portfolio-urls/main/04hover.png",
+    "image": "https://raw.githubusercontent.com/HamzaChl/portfolio-urls/main/02.png",
+    "hoverImage": "https://raw.githubusercontent.com/HamzaChl/portfolio-urls/main/02hover.png",
     "category": "Dev"
   },
   {
     "id": 8,
     "title": "Projet Beta",
     "year": 2022,
-    "image": "https://raw.githubusercontent.com/HamzaChl/portfolio-urls/main/05.png",
-    "hoverImage": "https://raw.githubusercontent.com/HamzaChl/portfolio-urls/main/05hover.png",
+    "image": "https://raw.githubusercontent.com/HamzaChl/portfolio-urls/main/02.png",
+    "hoverImage": "https://raw.githubusercontent.com/HamzaChl/portfolio-urls/main/02hover.png",
     "category": "Autre"
   }
 ]
