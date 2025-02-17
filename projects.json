@@ -53,7 +53,12 @@
     "year": 2024,
     "image": "https://raw.githubusercontent.com/HamzaChl/portfolio-urls/main/07.png",
     "hoverImage": "https://raw.githubusercontent.com/HamzaChl/portfolio-urls/main/07hover.png",
-    "category": "Web"
+    "category": "Web",
+    "projectImages": [
+      "https://raw.githubusercontent.com/HamzaChl/portfolio-urls/main/projects/07-1.png",
+      "https://raw.githubusercontent.com/HamzaChl/portfolio-urls/main/projects/07-3.png",
+      "https://raw.githubusercontent.com/HamzaChl/portfolio-urls/main/projects/07-4.png"
+    ]
   },
   {
     "id": 8,
