@@ -62,5 +62,13 @@
     "image": "https://raw.githubusercontent.com/HamzaChl/portfolio-urls/main/08.png",
     "hoverImage": "https://raw.githubusercontent.com/HamzaChl/portfolio-urls/main/08hover.png",
     "category": "Web"
+  },
+  {
+    "id": 9,
+    "title": "Boutique Maschio",
+    "year": 2023,
+    "image": "https://raw.githubusercontent.com/HamzaChl/portfolio-urls/main/09.png",
+    "hoverImage": "https://raw.githubusercontent.com/HamzaChl/portfolio-urls/main/09hover.png",
+    "category": "Web"
   }
 ]
