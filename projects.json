@@ -3,8 +3,8 @@
     "id": 1,
     "title": "EventGather",
     "year": 2023,
-    "image": "/Images/01.png",
-    "hoverImage": "/Images/01hover.png",
+    "image": "https://raw.githubusercontent.com/HamzaChl/portfolio-urls/main/01.png",
+    "hoverImage": "https://raw.githubusercontent.com/HamzaChl/portfolio-urls/main/01hover.png",
     "category": "Design"
   },
   {
